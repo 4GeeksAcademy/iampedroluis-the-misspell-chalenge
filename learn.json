@@ -6,10 +6,10 @@
 	"status": "published",
   	"visibility": "internal",
 	"translations": ["es", "en"],
-	"duration" : 6,
+	"duration": 6,
 	"difficulty": "easy",
 	"technologies": ["github"],	
-	"description" : "Your first open-source contribution",
+	"description": "Your first open-source contribution",
 	"talents": [],
     "autoPlay": false,
     "projectType": "project"
